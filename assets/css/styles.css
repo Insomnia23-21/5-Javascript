@@ -1,0 +1,11 @@
+#container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#list-organizer {
+  width: 500px;
+  height: auto;
+  margin-top: 50px;
+}
